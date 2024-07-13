@@ -28,3 +28,30 @@ Select a specific number of lines from a large text file in Notepad++
 That's it!!! 
 
 If you want to copy the selected lines, simply press Ctrl + C
+
+Tip 4:
+
+4a. Column Mode Selection with Alt Key:  
+   &nbsp;&nbsp;&nbsp;&nbsp;Open your document in Notepad++.  
+   &nbsp;&nbsp;&nbsp;&nbsp;Press and hold the Alt key.   
+   &nbsp;&nbsp;&nbsp;&nbsp;While holding the Alt key, click and drag to create a vertical selection. This will create a rectangular selection area.
+
+4b. Individual Line Edits with Ctrl Key:  
+  &nbsp;&nbsp;&nbsp;&nbsp;After making the column selection, release the Alt key.  
+	&nbsp;&nbsp;&nbsp;&nbsp;Press and hold the Ctrl key.  
+  
+&nbsp;&nbsp;&nbsp;&nbsp;While holding the Ctrl key, click at the end of each line within the column selection where you want to place the cursor. This will create multiple cursors.
+
+  Inserting Text:
+  &nbsp;&nbsp;&nbsp;&nbsp;Once you have multiple cursors, you can start typing, and the text will be inserted at all cursor positions simultaneously.
+
+4c. Column mode editing feature to insert numbers in a column:
+- Open your document in Notepad++.
+- Press and hold the Alt key.
+- While holding the Alt key, click and drag to create a vertical selection (also known as a column selection). This will create a rectangular selection area.
+- After making your selection, press Alt + C to open the "Column Editor" dialog.
+- In the "Column Editor" dialog, select "Number to Insert".
+- Set the parameters for your numbering (e.g., initial number, increase by, repeat).
+- Click "OK".
+
+
