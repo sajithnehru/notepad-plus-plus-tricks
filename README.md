@@ -30,6 +30,7 @@ That's it!!!
 If you want to copy the selected lines, simply press Ctrl + C
 
 Tip 4:
+How to use Alt and Ctrl Keys for multiline and individual line edits?  
 
 4a. Column Mode Selection with Alt Key:  
    &nbsp;&nbsp;&nbsp;&nbsp;Open your document in Notepad++.  
