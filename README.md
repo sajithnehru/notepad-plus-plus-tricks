@@ -37,7 +37,13 @@ How to use Alt and Ctrl Keys for multiline and individual line edits?
    &nbsp;&nbsp;&nbsp;&nbsp;Press and hold the Alt key.   
    &nbsp;&nbsp;&nbsp;&nbsp;While holding the Alt key, click and drag to create a vertical selection. This will create a rectangular selection area.
 
-4b. Individual Line Edits with Ctrl Key:  
+4b. Column mode editing feature to insert numbers in a column:  
+- After making your selection, press Alt + C to open the "Column Editor" dialog.
+- In the "Column Editor" dialog, select "Number to Insert".
+- Set the parameters for your numbering (e.g., initial number, increase by, repeat).
+- Click "OK".
+
+4c. Individual Line Edits with Ctrl Key:  
   &nbsp;&nbsp;&nbsp;&nbsp;After making the column selection, release the Alt key.  
 	&nbsp;&nbsp;&nbsp;&nbsp;Press and hold the Ctrl key.  
   
@@ -45,15 +51,6 @@ How to use Alt and Ctrl Keys for multiline and individual line edits?
 
   Inserting Text:
   &nbsp;&nbsp;&nbsp;&nbsp;Once you have multiple cursors, you can start typing, and the text will be inserted at all cursor positions simultaneously.
-
-4c. Column mode editing feature to insert numbers in a column:
-- Open your document in Notepad++.
-- Press and hold the Alt key.
-- While holding the Alt key, click and drag to create a vertical selection (also known as a column selection). This will create a rectangular selection area.
-- After making your selection, press Alt + C to open the "Column Editor" dialog.
-- In the "Column Editor" dialog, select "Number to Insert".
-- Set the parameters for your numbering (e.g., initial number, increase by, repeat).
-- Click "OK".
 
 That's it!!!
 
